@@ -19,4 +19,10 @@ src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge
 <a href='https://skillsoft.digitalbadges.skillsoft.com/23ff6ca1-994e-49c5-b7c3-577d530adf71'>
 <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40975035'>
 </a>
+<a href='https://skillsoft.digitalbadges.skillsoft.com/ba394af6-c5d4-4293-9a06-a6afdfedfd05'>
+<img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40666315'>
+</a>
+<a href='https://skillsoft.digitalbadges.skillsoft.com/28dc8ba8-1566-44e3-bba2-651029c64b71'>
+<img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41176534'>
+</a>
 </div>
