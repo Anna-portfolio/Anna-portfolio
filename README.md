@@ -16,6 +16,7 @@ src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge
 <a href='https://skillsoft.digitalbadges.skillsoft.com/9ddb0467-c484-4e2d-b243-ab06707da459'>
 <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/38554530'>
 </a>
+<br>
 <a href='https://skillsoft.digitalbadges.skillsoft.com/23ff6ca1-994e-49c5-b7c3-577d530adf71'>
 <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40975035'>
 </a>
