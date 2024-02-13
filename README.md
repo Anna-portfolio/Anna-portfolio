@@ -4,7 +4,7 @@ Anna-portfolio/Anna-portfolio is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<b>Completed courses:</b></br>
+<b>Completed courses (selected):</b></br>
 <div class="badges">
 <a href='https://skillsoft.digitalbadges.skillsoft.com/bc07f961-ee4e-42a6-9dcd-e9d2ad5b8877'>
 <img 
