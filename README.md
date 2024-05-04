@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>Bio:</h2>
-Specialist experienced in processing and modelling a wide range of datasets in order to benefit the projects she's involved in. Detail-oriented expert with strong analytical skills, experienced in Power BI, SQL, Python, and Excel as well as in the front-end technologies (HTML5, CSS3, JS). Self-developing Specialist with strong focus on IT- and technology-related skills, successfully operating both as a part of team and individually.
+<h5></h5>Specialist experienced in processing and modelling a wide range of datasets in order to benefit the projects she's involved in. Detail-oriented expert with strong analytical skills, experienced in Power BI, SQL, Python, and Excel as well as in the front-end technologies (HTML5, CSS3, JS). Self-developing Specialist with strong focus on IT- and technology-related skills, successfully operating both as a part of team and individually.</h5>>
 
 <h2>Tools used for Data Analysis:</h2>
 <div class="badges">
