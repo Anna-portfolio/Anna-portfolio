@@ -20,6 +20,7 @@
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width="100px"</td>
     </tr>
     </table>
+    For my Power BI projects, go to <a href="https://www.novypro.com/profile_projects/anna-1">my novyPro account</a>.
   </div>
   <br>
   <h2>Used for Python3:</h2>
