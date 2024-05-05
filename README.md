@@ -9,7 +9,10 @@
   </head>
   <body>
   <h2>Bio:</h2>
-  <p>A detail-oriented specialist with strong analytical skills, experienced in modelling datasets in Power BI, SQL, Python, and Excel. Passionate about IT- and technology-related tools, sucessful under time pressure and     tight deadlines. Familiar with the front-end technologies as well (HTML5, CSS3, JS).</p>
+    <ul>
+      <li>Detail-oriented specialist with strong analytical skills, passionate about IT- and technology-related tools</li>
+      <li>Experienced in modelling datasets using Power BI, SQL, and Python</li> 
+      <li>Familiar with HTML5, CSS3, and JavaScript</li>
   <br>
   <h2>Tools used for Data Analysis:</h2>
   <div>
