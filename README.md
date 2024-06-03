@@ -11,7 +11,7 @@
   <h2>Bio:</h2>
     <ul>
       <li>Detail-oriented specialist with strong analytical skills, passionate about IT- and technology-related tools</li>
-      <li>Experienced in modelling datasets using Power BI, SQL, and Python</li> 
+      <li>Experienced in modelling datasets using Excel (incl. VBA), Power BI, SQL, and Python</li> 
       <li>Familiar with HTML5, CSS3, and JavaScript</li>
   <br>
   <h2>Tools used for Data Analysis:</h2>
