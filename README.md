@@ -34,8 +34,8 @@
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' width="100px"></td>
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' width="100px"></td>
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg' width="100px"></td>
-      <td><img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' width="100px"></td>
-      <td><img src='https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg' width="100px"></td>
+      <!-- scikit learn <td><img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' width="100px"></td>  --->
+      <!-- spacy <td><img src='https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg' width="100px"></td>  --->
     </tr>
     </table>
   </div>
