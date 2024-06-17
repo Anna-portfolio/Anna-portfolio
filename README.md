@@ -21,6 +21,7 @@
       <td><img class="image" src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' width="100px"></td>
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg' width="100px"></td>
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width="100px"></td>
+      <td><img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width="100px"></td>
     </tr>
     </table>
     For my Power BI projects, go to <a href="https://www.novypro.com/profile_projects/anna-1">my novyPro account</a>.
