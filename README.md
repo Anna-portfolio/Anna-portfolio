@@ -8,7 +8,7 @@
      <link rel="stylesheet" type="text/css" href="https://github.com/Anna-portfolio/Anna-portfolio/blob/main/style.css">
   </head>
   <body>
-<h3> Check Power-BI-Superstore-Sales-Dashboard, nominated in June 2024 for the Top 6 submissions in a global Power BI competition organized by the current employer </h3>
+<h3> Please check Power-BI-Superstore-Sales-Dashboard, nominated in June 2024 for the Top 6 submissions in a global Power BI competition organized by the current employer </h3>
   <h2>Bio:</h2>
     <ul>
       <li>Detail-oriented specialist with strong analytical skills, passionate about IT- and technology-related tools</li>
