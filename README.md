@@ -8,7 +8,9 @@
      <link rel="stylesheet" type="text/css" href="https://github.com/Anna-portfolio/Anna-portfolio/blob/main/style.css">
   </head>
   <body>
-<h3> Highlights: Power-BI-Superstore-Sales-Dashboard (Pinned #1), nominated in June 2024 for the Top 6 submissions in a global Power BI competition organized by the current employer </h3>
+<h3>Highlights <br><br>Power-BI-Superstore-Sales-Dashboard (Pinned #1) nominated in June 2024 for the Top 6 submissions in a global Power BI competition organized by the current employer [<a href="https://project.novypro.com/XYUvzK">Direct Link to Dashboard</a>] </h3><br>
+<p><b>For all my Power BI dashboards, go to <a href="https://www.novypro.com/profile_projects/anna-1">my novyPro account</a>.</p></b><br>
+
   <h2>Bio:</h2>
     <ul>
       <li>Detail-oriented specialist with strong analytical skills, passionate about IT- and technology-related tools</li>
@@ -25,7 +27,6 @@
       <td><img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width="100px"></td>
     </tr>
     </table>
-    For my Power BI projects, go to <a href="https://www.novypro.com/profile_projects/anna-1">my novyPro account</a>.
   </div>
   <br>
   <h2>IDE and Libraries used for Python3:</h2>
