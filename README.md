@@ -8,7 +8,7 @@
      <link rel="stylesheet" type="text/css" href="https://github.com/Anna-portfolio/Anna-portfolio/blob/main/style.css">
   </head>
   <body>
-<h3>Highlights in 2024: <br><br>Power-BI-Superstore-Sales-Dashboard (Pinned #1) nominated for the Top 6 submissions in a global Power BI competition organized by the current employer [<a href="https://project.novypro.com/XYUvzK">Direct Link to Dashboard</a>] </h3><br>
+<h3>Highlights in 2024: <br><br>Power-BI-Superstore-Sales-Dashboard (Pinned #1) nominated for the Top 6 submissions in a global Power BI competition organized by the current employer [<a href="https://project.novypro.com/XYUvzK">Direct NovyPro Link to Dashboard</a>] </h3><br>
 <p><b>For all Power BI dashboards, go to <a href="https://www.novypro.com/profile_projects/anna-1">my novyPro account</a>.</p></b><br>
 
   <h2>Bio:</h2>
