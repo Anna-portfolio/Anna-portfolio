@@ -13,9 +13,12 @@
 
   <h2>Bio:</h2>
     <ul>
-      <li>Detail-oriented specialist with strong analytical skills, passionate about IT- and technology-related tools</li>
-      <li>Experienced in modelling datasets using Excel (incl. VBA), Power BI, SQL, and Python</li> 
-      <li>Familiar with HTML5, CSS3, and JavaScript</li>
+<li>Detail-oriented specialist with 7+ years of experience in automation and data analysis</li>
+<li>Solid academic background: Master’s degrees in Economics and English Studies, plus postgraduate studies in Data Analysis</li>
+<li>Strong analytical skills and a passion for IT and technology tools, with expertise in Excel (VBA), Power BI (DAX, KPIs), SQL, and Python</li>
+<li>Familiar with HTML5, CSS3, and JavaScript</li>
+<li>Multilingual professional: Fluent in English and German; conversational in French and Italian</li>
+
   <br>
   <h2>Tools used for Data Analysis:</h2>
   <div>
