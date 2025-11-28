@@ -14,9 +14,9 @@
   <h2>Bio:</h2>
     <ul>
 <li>Detail-oriented specialist with 7+ years of experience in automation and data analysis</li>
-<li>Solid academic background: Master’s degrees in Economics and English Studies, plus postgraduate studies in Data Analysis</li>
-<li>Strong analytical skills and a passion for IT and technology tools, with expertise in Excel (VBA), Power BI (DAX, KPIs), SQL, and Python</li>
+<li>Strong analytical skills and a passion for IT and technology tools, with expertise in Python, SQL, Power BI, and VBA</li>
 <li>Familiar with HTML5, CSS3, and JavaScript</li>
+<li>Master’s degrees in Economics and English Studies, plus postgraduate studies in Data Analysis</li>
 <li>Multilingual professional: Fluent in English and German; conversational in French and Italian</li>
 
   <br>
