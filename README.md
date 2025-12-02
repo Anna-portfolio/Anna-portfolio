@@ -15,7 +15,7 @@
   --->
   <h2>Bio:</h2>
     <ul>
-<li>Detail-oriented specialist with 7+ years of experience in automation and data analysis</li>
+<li>Detail-oriented specialist with approximately 7 years of experience in automation and data analysis</li>
 <li>Strong analytical skills and a passion for IT and technology tools, with expertise in Python, SQL, Power BI, and VBA</li>
 <li>Skilled in frontend technologies (HTML5, CSS3, and JavaScript)</li>
 
