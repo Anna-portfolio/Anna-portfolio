@@ -8,7 +8,7 @@
   --->
   <head>
      <link rel="stylesheet" type="text/css" href="https://github.com/Anna-portfolio/Anna-portfolio/blob/main/style.css">
-  </head>
+  </head> 
   <body>
 
 
@@ -18,9 +18,9 @@
   --->
   <h2>Bio:</h2>
     <ul>
-<li>Detail-oriented specialist with +7 years of experience in automation and data analysis</li>
-<li>Strong analytical skills and a passion for IT and technology tools, with expertise in Python, SQL, Power BI, and VBA</li>
-<li>Skilled in frontend technologies (HTML5, CSS3, and JavaScript)</li>
+<li>Automation & AI Specialist with 7+ years of experience in process automation, business intelligence, and data analytics.</li>
+<li>Building solutions with Python, SQL, Power BI, VBA, and AI to automate workflows and transform data into actionable insights.</li>
+<li>Interested in AI, analytics, automation, and modern software development.</li>
 
   <br>
 </body>
