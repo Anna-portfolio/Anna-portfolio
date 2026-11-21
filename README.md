@@ -19,7 +19,7 @@
   <h2>Bio:</h2>
     <ul>
 <li>Automation & AI Specialist with 7+ years of experience in process automation, business intelligence, and data analytics.</li>
-<li>Building solutions with Python, SQL, Power BI, VBA, and AI to automate workflows and transform data into actionable insights.</li>
+<li>Building solutions with Python, SQL, Power BI, and AI to automate workflows and transform data into actionable insights.</li>
 <li>Interested in AI, analytics, automation, and modern software development.</li>
 
   <br>
